@@ -1,6 +1,4 @@
-<p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/" align="right">Jigsaw Puzzles</a></p>
-
-# Ricordi
+<p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
 ## Standhaftes Grun (Vassily Kandinsky)
 2025-07-31<br>
@@ -82,4 +80,4 @@
 ![The Kiss](images/2021-05-11-The_Kiss.jpg)
 <br>Ricordi Arte, 1000 pieces
 
-<p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/" align="right">Jigsaw Puzzles</a></p>
+<p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
