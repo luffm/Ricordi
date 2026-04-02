@@ -23,7 +23,7 @@
 ## Bavardages (Louis Toffoli)
 2024-06-20<br>
 ![Bavardages](images/2024-06-20-Bavardages.jpg)
-<br>Nuova Arti Grafiche Ricordi
+<br>Nuova Arti Grafiche Ricordi, 1000 pieces
 
 ## Lady with Fan (Klimt)
 2024-06-08<br>
