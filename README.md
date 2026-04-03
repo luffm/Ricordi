@@ -1,5 +1,3 @@
-# Ricordi
-
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
 ## Standhaftes Grun (Vassily Kandinsky)
