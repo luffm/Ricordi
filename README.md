@@ -61,8 +61,8 @@
 <br>Ricordi Arte, 1000 pieces
 
 ## Les Coquelicots (Claude Monet)
-2022-01-03<br>
-![The Poppy Field Near Argenteuil](images/2022-01-03-The_Poppy_Field_Near_Argenteuil.jpg)
+2022-01-06<br>
+![Poppy Field Near Argenteuil](images/2022-01-06-Poppy_Field_Near_Argenteuil.jpg)
 <br>Editions Ricordi, 1000 pieces
 
 ## Ia Orana Maria (Paul Gauguin)
