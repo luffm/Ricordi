@@ -17,7 +17,7 @@
 
 ## Still Life I with Tropical Palms (J. Capeinick)
 2024-07-05<br>
-![Still Life I with Tropical Palms](images/2024-07-05-Still_Life_I_with_Tropical_Palms.jpg)
+![Still Life I](images/2024-07-05-Still_Life_I.jpg)
 <br>Ricordi Arte, 1000 pieces
 
 ## Bavardages (Louis Toffoli)
@@ -32,7 +32,7 @@
 
 ## Le pont japonais (Claude Monet)
 2024-01-21<br>
-![Le pont japonais](images/2024-01-21-Le_pont_japonais.jpg)
+![Le Pont Japonais](images/2024-01-21-Le_Pont_Japonais.jpg)
 <br>Nuova Arti Grafiche Ricordi, 2000 pieces
 
 ## Danseuse Articulee, 1915 (G. Severini)
@@ -47,7 +47,7 @@
 
 ## Young Woman in the Mirror, 1515 (Giovanni Bellini)
 2022-08-13<br>
-![Young Woman in the Mirror](images/2022-08-13-Young_Woman_in_the_Mirror.jpg)
+![Young Woman in Mirror](images/2022-08-13-Young_Woman_in_Mirror.jpg)
 <br>Ricordi Arte, 1000 pieces
 
 ## La Donna Velata, 1516 (Raffaello)
@@ -57,12 +57,12 @@
 
 ## Le couple, 1977 (Marc Chagall)
 2022-02-12<br>
-![Le couple](images/2022-02-12-Le_couple.jpg)
+![Le Couple](images/2022-02-12-Le_Couple.jpg)
 <br>Ricordi Arte, 1000 pieces
 
 ## Les Coquelicots (Claude Monet)
 2022-01-03<br>
-![The Poppy Field near Argenteuil](images/2022-01-03-The_Poppy_Field_near_Argenteuil.jpg)
+![The Poppy Field Near Argenteuil](images/2022-01-03-The_Poppy_Field_Near_Argenteuil.jpg)
 <br>Editions Ricordi, 1000 pieces
 
 ## Ia Orana Maria (Paul Gauguin)
