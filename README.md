@@ -76,8 +76,8 @@
 <br>Editions Ricordi, 1000 pieces
 
 ## The Kiss (Francesco Hayez)
-2021-05-11<br>
-![The Kiss](images/2021-05-11-The_Kiss.jpg)
+2021-05-16<br>
+![The Kiss](images/2021-05-16-The_Kiss.jpg)
 <br>Ricordi Arte, 1000 pieces
 
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
