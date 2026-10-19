@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## Pala di S. Maria dei Fossi (det.) (Pinturicchio)
+2026-07-07<br>
+![Maria dei Fossi](images/2026-07-07-Maria_dei_Fossi.jpg)
+<br>Art Stones, 1000 pieces
+
 ## Standhaftes Grun (Vassily Kandinsky)
 2025-07-31<br>
 ![Standhaftes Grun](images/2025-07-31-Standhaftes_Grun.jpg)
